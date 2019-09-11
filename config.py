@@ -1,0 +1,1 @@
+DB_URL = "sqlite:///database.sqlite?check_same_thread=False"
